@@ -32,11 +32,11 @@
 
 ## 📌 Featured Projects
 
-### 📊 Job Tracker Analytics
-MERN stack job tracking dashboard with analytics & responsive UI.
+## 📈 GitHub Stats
 
-🔗 Live Demo:
-https://job-tracker-analytics-git-main-saikrishna123-srus-projects.vercel.app/login
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mittapellisaikrishna&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mittapellisaikrishna&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
