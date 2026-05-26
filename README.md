@@ -28,11 +28,7 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 
----
 
-## 📌 Featured Projects
-
----
 
 ### 💹 Trading Bot
 Python automation project for market analysis and trading logic.
