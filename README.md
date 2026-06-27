@@ -12,6 +12,7 @@
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saikrishna-mittapelli/)
+[![Portfolio Data Analyst](https://mittapellisaikrishna.github.io/data-analyst-portfolio/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel)](https://mittapellisaikrishna.github.io/portfolie1/)
 
