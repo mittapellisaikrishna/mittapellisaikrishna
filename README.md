@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:8a2be2&height=220&section=header&text=Sai%20Krishna%20Mittapelli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20ECE%20Engineer%20%7C%20Building%20with%20Data%20%26%20Silicon&descAlignY=55&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6a0dad,100:8a2be2&height=220&section=header&text=Sai%20Krishna%20Mittapelli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20ECE%20Engineer%20%7C%20Building%20with%20Data%20and%20Silicon&descAlignY=55&descSize=16)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+SQL+%2B+Python+%2B+Power+BI;ECE+Engineer+%7C+VLSI+%2B+Embedded+Systems;Final-Year+B.Tech+%40+SR+University;Turning+Raw+Data+Into+Business+Insights" alt="Typing SVG" /></a>
 
@@ -222,3 +222,4 @@ Open To:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,50:6a0dad,100:1a1a2e&height=120&section=footer)
 
 </div>
+
